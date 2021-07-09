@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237754573075",
+    "project_id": "midterm-531a8",
+    "storage_bucket": "midterm-531a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237754573075:android:2c39f1ed6acb825dc47ae6",
+        "android_client_info": {
+          "package_name": "info.getev.midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237754573075-hcpgulrkrjg9iabhjeb5hvnal25kl9f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.getev.midterm",
+            "certificate_hash": "b15561b3bc013cff94c58b03dbb87045c2c93273"
+          }
+        },
+        {
+          "client_id": "237754573075-sc5jhd0g044sfnpj3d8n426hp5slcjp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfIuHcsqD4zOJLY19mNVRBv9IG3ITlhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237754573075-sc5jhd0g044sfnpj3d8n426hp5slcjp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
